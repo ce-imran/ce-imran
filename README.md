@@ -15,5 +15,4 @@ I am a Computer Science student passionate about technology, design, and cars. I
 * **Tools:** GitHub, VS Code
 
 ---
-Visitor count badge 
 ![Profile Views](https://komarev.com/ghpvc/?username=ce-imran&color=blueviolet)
